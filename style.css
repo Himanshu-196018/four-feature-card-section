@@ -119,7 +119,7 @@ section {
 }
 
 /* style for desktop/larger screens */
-@media screen and (width > 500px) {
+@media screen and (width > 1130px) {
   header {
     margin: 0;
     width: 500px;
