@@ -14,7 +14,7 @@
 }
 
 body {
-  background-color: var(--vary-light-gray);
+  background-color: hsl(0, 0%, 92%);
   font-family: Poppins, sans-serif;
   font-size: 15px;
   color: var(--grayish-blue);
@@ -65,7 +65,7 @@ section {
   border-radius: 6px;
   display: grid;
   background-color: var(--vary-light-gray);
-  box-shadow: 0 0 5px rgba(120, 120, 120, 0.4);
+  box-shadow: 0 0 20px rgba(120, 120, 120, 0.4);
 
   /* custom hover effects with animation */
   &:hover {
